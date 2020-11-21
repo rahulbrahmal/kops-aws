@@ -1,0 +1,7 @@
+{
+    "AccessKey": {
+        "AccessKeyId": "exampleAccessKey",
+        "SecretAccessKey": "exampleSecretAccessKey",
+        "Region": "exampleRegion"
+    }
+}
